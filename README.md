@@ -1,7 +1,8 @@
 # DC404-Passive-scanner
 Passive, compliance-friendly organizational recon with a modern GUI. Designed for authorized security testing and asset inventory.
 
-<img width="1024" height="1024" alt="ChatGPT Image Aug 16, 2025, 07_58_15 PM" src="https://github.com/user-attachments/assets/d9312a4a-6579-4b07-8618-4f4df66eba9b" />
+<img width="1024" height="1024" alt="ChatGPT Image Aug 16, 2025, 08_18_12 PM" src="https://github.com/user-attachments/assets/6ccc9d17-e2c3-4223-b3f2-9e5caa0de7e9" />
+
 
 <img width="1920" height="1080" alt="scannertool" src="https://github.com/user-attachments/assets/73aaa484-2d77-4939-acc7-c921e819c258" />
 
